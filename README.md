@@ -5,3 +5,6 @@ Test tasks completed without use of AI tools.
 - 2025/10/16 [Classification](https://github.com/OlyaFilatova/studies/classification/README.md) - Test task: Explores classification models (Random Forest, CNN, FNN) using the publicly available [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) dataset
 - 2025/10/16 [NLP and CV](https://github.com/OlyaFilatova/studies/nlp_n_cv/README.md) - Test task: Explores NLP and CV techniques with use of a publicly available animals10 dataset.
 - 2026/03/05 [Count words in text](./word_counter/counter.py) - Read text from files tokenize and count.
+
+
+Test tasks used to gauge my use of AI tools can be found in the https://github.com/OlyaFilatova/test-tasks-ai repo.
